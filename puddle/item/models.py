@@ -1,5 +1,5 @@
 from django.db import models
 
 # Create your models here.
-class Catrgory(models.Model):
+class Category(models.Model):
     
